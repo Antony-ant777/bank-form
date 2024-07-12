@@ -1,0 +1,91 @@
+body{
+    height: 130vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tot{
+    height:1000px;
+    width: 700px;
+    
+}
+h3{
+    margin: 30px;
+}
+h2{
+    margin-left: 20px ;
+}
+.head{
+    background-color: chartreuse;
+    display: flex;
+    gap:200px;
+}
+
+.sing{
+    width: 400px;
+}
+.sec{
+    width:195px;
+}
+
+.ano{
+    display: flex;
+   
+}
+.thi{
+   width: 130px;
+   gap:40px;
+}
+input{
+     margin-top: 15px;
+    height:20px;
+    border: 1px solid black;
+}
+.one{
+  display: flex;
+  gap:100px;
+}
+.two{
+    display: flex;
+    gap:46px;
+}
+.three{
+    display:flex;
+    gap:75px;
+    
+}
+
+.four{
+    display: flex;
+    gap:50px;
+}
+.five{
+    display: flex;
+    gap:58px;
+}
+.six{
+    display: flex;
+    gap:44px;
+}
+.seven{
+    display: flex;
+    gap:63px;
+}
+.eight{
+    display: flex;
+    gap:125px;
+}
+.nine{
+    display: flex;
+    gap:165px;
+}
+.ten{
+    display: flex;
+    gap:37px;
+
+}
+hr{
+    width: 400px;
+    margin: 15px;
+    border: 1px solid black;
+}
